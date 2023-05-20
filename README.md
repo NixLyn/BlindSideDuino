@@ -142,13 +142,18 @@ void viben(int SPEED){
 
 ## Basic Diagram ##
 
-Key: 
+Key:
+<br>
 (X-#)     - LED
+<br>
 (GND)     - Leads to Ground/Negative/Nutral
+<br>
 (TX)      - Echo/OutPut/SCL/Return
+<br>
 (RX)      - Trigger/InPut/SDA
+<br>
 (VCC)     - Voltage in -> 5 Volt <-
-
+<br>
 
 
 
