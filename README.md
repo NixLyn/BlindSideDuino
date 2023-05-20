@@ -202,6 +202,24 @@ Key:
 
 
 
+## To Follow ##
+
+If all goes well, I will be adding an esp-01 to the project.
+This should allow modification to be made:
+<br>
+-> Connect via app
+<br>
+-> Adding different voicenotes for difference distances
+<br>
+-> Adding 'sleep mode timer' 
+<br>
+-> Adjusting distance segments
+<br>
+-> Chat with your pet
+<br>
+-> Change colors of LEDs
+<br>
+-> -> much more, but my ADHD will go nuts here...
 
 
 
